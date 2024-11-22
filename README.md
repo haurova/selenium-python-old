@@ -1,2 +1,1 @@
-# stepik
-файлы с курса по автоматизации Python + Selenium со Stepik (какие остались)
+excersizes from Selenium + Python course
